@@ -306,7 +306,7 @@
 			/* -------------------------------------------------- */
 
 	.slogan {
-		margin-bottom: 40px;
+		margin-bottom: 0px;
 	}
 
 	.slogan h1 {
@@ -349,7 +349,7 @@
 		vertical-align: top;
 	}
 	.ls-slide img{
-    width: 412px !important;
+    width: 410px !important;
     margin-left: 0 !important; 
 	height: auto !important;
 	margin-top: 0 !important;
@@ -653,11 +653,12 @@
 	}
 
 	#logo a img {
-		max-width: 50%;
+		max-width: 30%;
+		margin-top: 0px;
 	}
 
 	.top-nav-collapse #logo a img {
-		max-width: 50%;
+		max-width: 30%;
 	}
 
 	#wrapper {
